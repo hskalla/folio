@@ -1,3 +1,6 @@
+django
+dj-database-url
 gunicorn
 waitress
 sqlalchemy
+psycopg[binary]
