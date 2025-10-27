@@ -1,3 +1,6 @@
+Flask
+flask-cors
+Flask-SQLAlchemy
 gunicorn
 waitress
 sqlalchemy
