@@ -1,6 +1,10 @@
 Flask
 flask-cors
 Flask-SQLAlchemy
+
+sqlalchemy
+psycopg2-binary
+dj-database-url
+
 gunicorn
 waitress
-sqlalchemy
